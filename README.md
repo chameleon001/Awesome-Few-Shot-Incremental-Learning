@@ -1,11 +1,9 @@
 # Awesome-Few-Shot-Incremental-Learning
 
-
-# Awesome Few-Shot Class-Incremental Learning
-
-
 ## Papers
 
+  ### 2022
+  
   ### 2021
   
 -  Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima(**NeurIPS21**) [[paper]( https://openreview.net/forum?id=ALvt7nXa2q)] 
